@@ -6,7 +6,7 @@ permalink: /about/
 
 "off white"
 
-###daddydolmio
+daddydolmio
 
 Anti-Hero.
 
