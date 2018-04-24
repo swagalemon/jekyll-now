@@ -18,15 +18,15 @@ avatar: https://res-3.cloudinary.com/scentre-group-au/image/fetch/c_pad,f_auto,q
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: offwhite@gmail.com
-  facebook: https://www.facebook.com/offwhitetrademarksymbol/
+  email:offwhite@gmail.com
+  facebook:https://www.facebook.com/offwhitetrademarksymbol/
   flickr:
   github: 
-  instagram: https://www.instagram.com/off____white/?hl=en
+  instagram:https://www.instagram.com/off____white/?hl=en
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: https://twitter.com/OffWht?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+  twitter:https://twitter.com/OffWht?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
