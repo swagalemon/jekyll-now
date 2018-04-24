@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+"off white"
 
-### More Information
+###daddydolmio
 
-A place to include any other types of information that you'd like to include about yourself.
+Anti-Hero.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[elias.lemoniatis@challoners.org](mailto:elias.lemoniatis@challoners.org)
